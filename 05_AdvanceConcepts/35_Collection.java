@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.HashMap;
 import java.util.HashSet;
 
-public class List_name {
+public class Collection {
     public static void main(String[] args) {
         List<String> my_list = new ArrayList<String>();
         my_list.add("Hello");
